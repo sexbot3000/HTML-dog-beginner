@@ -1,0 +1,1 @@
+I will be following along with HTML dog beginner to get a better understanding of HTML
